@@ -116,8 +116,6 @@ public class First {
     }
 
 
-
-
     public void pause(int time) {
         try {
             Thread.sleep(time);
